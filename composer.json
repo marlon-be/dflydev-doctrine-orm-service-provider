@@ -1,5 +1,5 @@
 {
-    "name": "dflydev/doctrine-orm-service-provider",
+    "name": "marlon-be/doctrine-orm-service-provider",
     "description": "Doctrine ORM Service Provider",
     "keywords": ["pimple", "cilex", "silex", "doctrine", "orm"],
     "license": "MIT",
